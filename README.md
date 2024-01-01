@@ -31,9 +31,7 @@ In the rapidly evolving landscape of cybersecurity, the ability to quickly and a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cyber-attacks-classification.git
-
-
+   git clone https://github.com/Daudsarfraz/Cyber-Attacks-Classification-using-Machine-Learning.git
 
 # Usage
 Ensure you have the necessary dataset (see Dataset section).
@@ -49,7 +47,7 @@ The project includes several machine learning models for cyber attack classifica
 - Neural Networks
 
 # Dataset
-The dataset used for training and testing the models is [https://github.com/Daudsarfraz/Cyber-Attacks-Classification-using-Machine-Learning/blob/main/Dataset.zip]. You can download it from [https://github.com/Daudsarfraz/Cyber-Attacks-Classification-using-Machine-Learning/blob/main/Dataset.zip]. Ensure that you have the dataset in the appropriate format before running the training scripts.
+You can download it from [https://github.com/Daudsarfraz/Cyber-Attacks-Classification-using-Machine-Learning/blob/main/Dataset.zip]. Ensure that you have the dataset in the appropriate format before running the training scripts.
 
 # Contributing
 Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, please open an issue or submit a pull request. For major changes, please discuss them in advance.
